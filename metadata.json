@@ -1,0 +1,6 @@
+{
+  "name": "Saheli Visual Skill Guide",
+  "description": "Visual skill guidance & AI feedback for rural women in Sharqpur, Punjab for roti, salan, kadhai embroidery, and crafts in Roman Urdu.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
